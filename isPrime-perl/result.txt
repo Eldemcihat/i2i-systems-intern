@@ -1,0 +1,6 @@
+6
+9
+7 --> Prime
+5 --> Prime
+11 --> Prime
+13 --> Prime
